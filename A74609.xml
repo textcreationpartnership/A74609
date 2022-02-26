@@ -1,0 +1,2053 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A catalogue of the names of the knights for the counties, citizens, burgesses for the boroughes, and barons for the ports for the House of Commons, for this Parliament. Begun at Westminster the 13. of April, 1640.</title>
+            <author>Walkley, Thomas, d. 1658?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1640</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74609</idno>
+            <idno type="STC">Thomason E1091_4</idno>
+            <idno type="EEBO-CITATION">50811943</idno>
+            <idno type="OCLC">ocm 50811943</idno>
+            <idno type="VID">169388</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74609)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169388)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 162:E1091[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A catalogue of the names of the knights for the counties, citizens, burgesses for the boroughes, and barons for the ports for the House of Commons, for this Parliament. Begun at Westminster the 13. of April, 1640.</title>
+                  <author>Walkley, Thomas, d. 1658?</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho: Walkley, and are to be sold at his Shop, at the signe of the flying Horse, betweene Brittains Bursse, and Yorke House,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1640.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Compiled by Thomas Walkley.</note>
+                  <note>Signatures: A.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament. --  House of Commons --  Registers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:169388:1" rendition="simple:additions"/>
+A CATALOGVE OF THE NAMES OF the Knights for the Counties, Citizens, Burgeſſes for the Boroughes, and Barons for the Ports for the Houſe of Commons, for this PARLIAMENT.</p>
+            <p>BEGVN AT Westminster the 13. of <hi>Aprill,</hi> 1640.</p>
+            <p>LONDON, Printed for <hi>Tho: Walkley,</hi> and are to be ſold at his Shop, at the ſigne of the flying Horſe, betweene Brittains Burſſe, and <hi>Yorke</hi> Houſe, 1640.</p>
+         </div>
+      </front>
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:169388:2"/>
+            <pb facs="tcp:169388:2"/>
+            <head>A Proclamation before the L. Stevvard.</head>
+            <p>THe Kings moſt excellent Majeſty doth ſtraightly charge and command all manner of Perſons choſen for the Knights, Citizens, and Burgeſſes, to attend in this preſent Parliament, that they, nor any of them do preſume to ſit or take their places in the lower Houſe of Parlia<g ref="char:EOLhyphen"/>ment; untill they, and every of them have firſt taken the Oathes of Supremacie, and Allegiance in the uſuall man<g ref="char:EOLhyphen"/>ner and place; nor untill the Sheriffe ſhall make returne of his Writ according to Statute, unto the Clarke of the Crowne in Chancery, and his, or their names bee there en<g ref="char:EOLhyphen"/>tred in ſuch manner as hath heretofore beene accuſtomed, upon paine of the perill ſhall fall thereon.</p>
+            <closer>God ſave the King.</closer>
+         </div>
+         <div type="part">
+            <head>ALL Knights, Citizens, and Burgeſſes, choſen to attend this preſent Parliament; make your ap<g ref="char:EOLhyphen"/>pearance, and anſwer to your names as you ſhall bee called.</head>
+            <head type="sub">The names of the Knights, Citizens, and Burgeſſes of the Counties, Cities, and Borough-Townes of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and <hi>Wales,</hi> and the Baronie of the Ports now ſit<g ref="char:EOLhyphen"/>ting in Parliament holden at <hi>Weſtminſter</hi> the 13. day of <hi>March, 1640.</hi> in the ſixteenth yeare of the Raigne of our Soveraigne Lord King <hi>Charles.</hi>
+            </head>
+            <pb facs="tcp:169388:3" rendition="simple:additions"/>
+            <p>
+               <pb facs="tcp:169388:4"/>
+IOhn Glanvile Serjant at Law, Speaker.</p>
+            <list>
+               <item>
+                  <label>Bedford.</label>
+                  <list>
+                     <item>Thomas Lord Wentworth.</item>
+                     <item>Oliver Luke knight.</item>
+                     <item>Bedford Towne.</item>
+                  </list>
+               </item>
+               <item>
+                  <label>Quere.</label>
+                  <list>
+                     <item>Beauchamp St. Iohn K.</item>
+                     <item>Samuel Luke knight.</item>
+                     <item>William Botler Eſquire.</item>
+                  </list>
+               </item>
+               <item>
+                  <label>Buckingham.</label>
+                  <list>
+                     <item>Iohn Hampden Eſquire.</item>
+                     <item>Arthur Good wyn.</item>
+                     <item>
+                        <label>Buckingham Towne.</label>
+                        <list>
+                           <item>Peter Temple K. and Baro.</item>
+                           <item>Alexander Denton knight.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Wickombe.</label>
+                        <list>
+                           <item>Edward Verny Kt. Marſh.</item>
+                           <item>Thomas Lane Eſquire.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Alisbury.</label>
+                        <list>
+                           <item>Ralph Verney Eſquire.</item>
+                           <item>Thomas Sanders Knight.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Amerſham.</label>
+                        <list>
+                           <item>William Drake Eſquire.</item>
+                           <item>Edward Waller junior Eſq.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Wendover.</label>
+                        <list>
+                           <item>Bennet Hoskins Eſquire.</item>
+                           <item>Robert Crooke Eſquire.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Marlow.</label>
+                        <list>
+                           <item>Iohn Borlaſe Eſquire.</item>
+                           <item>William Hicks knight.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>Berks.</label>
+                  <list>
+                     <item>Iohn Fettiplace Eſquire.</item>
+                     <item>Henry Martin Eſquire.</item>
+                     <item>
+                        <label>New Windſor.</label>
+                        <list>
+                           <item>Arthur Ingram knight.</item>
+                           <item>Richard Harriſon knight<g ref="char:punc">▪</g>
+                           </item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Redding.</label>
+                        <list>
+                           <item>Francis Knowles Seni<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap> Knight.</item>
+                           <item>Francis Knowles junior</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Wallingford.</label>
+                        <list>
+                           <item>Edmond Dunch Eſquire</item>
+                           <item>Vnton Croke Eſquire.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Abington.</label>
+                        <list>
+                           <item>George Stonehouſe Baro</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>Cornwall.</label>
+                  <list>
+                     <item>Francis Godolphin Eſqu<gap reason="illegible" resp="#UOM" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>
+                     </item>
+                     <item>Richard Buller knight.</item>
+                     <item>
+                        <label>Dunchevit <hi>alias</hi> Lanceſt<gap reason="illegible" resp="#UOM" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>
+                        </label>
+                        <list>
+                           <item>Nevill Greynvile knight</item>
+                           <item>Ambroſe Manaton Eſqui<gap reason="illegible" resp="#UOM" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>
+                           </item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Leskard.</label>
+                        <list>
+                           <item>Iohn Harris Eſquire.</item>
+                           <item>George Kekewich Eſq.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Loſtwithell.</label>
+                        <list>
+                           <item>Richard Arundell Eſqui<gap reason="illegible" resp="#UOM" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>
+                           </item>
+                           <item>Nicholas Kendall Eſquir<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>
+                           </item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Truro.</label>
+                        <list>
+                           <item>Francis Rows Eſquire.</item>
+                           <item>Iohn Rolle gentleman.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Bodwin.</label>
+                        <list>
+                           <item>Richard Winne K. &amp; Ba<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap>
+                           </item>
+                           <item>Richard Prideaux Eſquir<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>
+                           </item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Helſton.</label>
+                        <list>
+                           <item>Sidney Godolphin Eſq.</item>
+                           <item>William Godolphin Eſq<gap reason="illegible" resp="#UOM" extent="2+ letters">
+                                 <desc>••…</desc>
+                              </gap>
+                           </item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>
+                           <pb facs="tcp:169388:4"/>
+Saltaſh.</label>
+                        <list>
+                           <item>
+                              <gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>eorge Buller Eſquire.</item>
+                           <item>
+                              <gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>rancis Buller Eſquire.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Cameilford.</label>
+                        <list>
+                           <item>
+                              <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap>irce Edgcumbe Eſq.</item>
+                           <item>
+                              <gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>dward Read Eſq.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>
+                           <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>ortipigham <hi>alias</hi> Weſtlow</label>
+                        <list>
+                           <item>
+                              <gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>nthony Mildmay Eſq.</item>
+                           <item>
+                              <gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>eorge Potter.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>
+                           <hi>Q.</hi> Grampound.</label>
+                        <list>
+                           <item>Warwicke Mohun Eſq.</item>
+                           <item>
+                              <gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ohn Trevanion Eſq.</item>
+                           <item>William Coryton Eſq.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Eaſtlaw.</label>
+                        <list>
+                           <item>William Scawen Eſq,</item>
+                           <item>William Code Eſq.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Peuryn<g ref="char:punc">▪</g>
+                        </label>
+                        <list>
+                           <item>
+                              <gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>oſeph Hall Eſquire.</item>
+                           <item>Richard Vivion knight.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>q. Tregony.</label>
+                        <list>
+                           <item>Nicholas Burlaſe Eſq.</item>
+                           <item>
+                              <gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ohn Arundell Eſq.</item>
+                           <item>
+                              <gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ohn Seyntanbyn Eſq.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Boſſing.</label>
+                        <list>
+                           <item>
+                              <gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>nthony Nichols Eſq.</item>
+                           <item>Edward Herle Eſq.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>St. Ives.</label>
+                        <list>
+                           <item>William Dell Eſq.</item>
+                           <item>Henry Martin knight.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Fowey.</label>
+                        <list>
+                           <item>Edwin Rich of Lincolnes</item>
+                           <item>
+                              <gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>nne Eſquire.</item>
+                           <item>
+                              <gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>onathan Raiſhleigh Eſq.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>St. Iermins.</label>
+                        <list>
+                           <item>William Scawen Eſq.</item>
+                           <item>Iohn Elliot Eſq.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>q. Michell.</label>
+                        <list>
+                           <item>Peter Courtney Eſq.</item>
+                           <item>William Chad well Eſq.</item>
+                           <item>Francis Baſſet Eſq.</item>
+                           <item>Samuell Coſworth Eſq.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>q. Newport.</label>
+                        <list>
+                           <item>Nicholas Trefuſis Eſq.</item>
+                           <item>Iohn Maynard Eſq.</item>
+                           <item>Paul Specott Eſq.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>St. Mawes.</label>
+                        <list>
+                           <item>Iacob Sheffeild Eſq.</item>
+                           <item>George Parry Doct. at law.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Killington.</label>
+                        <list>
+                           <item>Samuell Rolle knight.</item>
+                           <item>Thomas Gardiner Eſq.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>Cumberland.</label>
+                  <list>
+                     <item>George Dalſton knight.</item>
+                     <item>Patricke Curwyn Baronet.</item>
+                     <item>
+                        <label>Carlil.</label>
+                        <list>
+                           <item>William Dalſton Eſq.</item>
+                           <item>Richard Barwis Eſq.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>Cambridge-ſhire.</label>
+                  <list>
+                     <item>Dudley North Knight Ba.</item>
+                     <item>Iohn Cutts knight.</item>
+                     <item>
+                        <label>Cambridge Vniverſity.</label>
+                        <list>
+                           <item>Thomas Eden Doct. at law.</item>
+                           <item>Henry Lucas Eſq.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Cambridge Towne.</label>
+                        <list>
+                           <item>Thomas Meautes Eſq.</item>
+                           <item>Oliver Cromwell Eſq.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>
+                     <pb facs="tcp:169388:5"/>
+Cheſhire.</label>
+                  <list>
+                     <item>William Brereton Baronet.</item>
+                     <item>Thomas Aſhton Baronet.</item>
+                     <item>
+                        <label>Cheſter Towne.</label>
+                        <list>
+                           <item>Thomas Smith K. and Ald.</item>
+                           <item>Robert Brerewood Eſq.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>Darbyſhire.</label>
+                  <list>
+                     <item>Iohn Mannors Knight.</item>
+                     <item>Iohn Curzon Baronet.</item>
+                     <item>
+                        <label>Darby Towne.</label>
+                        <list>
+                           <item>William Alleſtree Eſ. &amp; Re.</item>
+                           <item>Nathaniel Hallowes Alder.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>Devonſhire.</label>
+                  <list>
+                     <item>Thomas Wiſe Eſqu.</item>
+                     <item>Edward Seymour Eſqu.</item>
+                     <item>
+                        <label>Exeſter Citie.</label>
+                        <list>
+                           <item>Robert Walker Eſ. Major <hi>ib</hi>
+                           </item>
+                           <item>Iacob Tucker Eſq. Alder <hi>ib.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Totnes.</label>
+                        <list>
+                           <item>Oliver St. Iohn Eſqu.</item>
+                           <item>Iohn Maynard Eſqu.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Plimmouth.</label>
+                        <list>
+                           <item>Robert Trelawny Eſqu.</item>
+                           <item>Iohn Waddon Eſq.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Barneſtable.</label>
+                        <list>
+                           <item>George Peard Eſqu.</item>
+                           <item>Thomas Mathew Marchant</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>q Plimpton.</label>
+                        <list>
+                           <item>Richard Strode Knight.</item>
+                           <item>Nicholas Slanning K. Rec.</item>
+                           <item>Thomas Hele Baronet.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Taviſtocke.</label>
+                        <list>
+                           <item>William Lord Ruſſell.</item>
+                           <item>Iohn Pym Eſqu.</item>
+                           <item>Clifton Dartmouth.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Hardnes.</label>
+                        <list>
+                           <item>Iohn Vpton Eſquire.</item>
+                           <item>Andrew Voyſey Marchant.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Berealſton.</label>
+                        <list>
+                           <item>Iohn Harris Eſqu.</item>
+                           <item>William Strode Eſqu.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Tiverton.</label>
+                        <list>
+                           <item>Peter Ball <hi>Queen's Attour.</hi>
+                           </item>
+                           <item>Peter Samthill Eſqu.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>Dorcetſhire.</label>
+                  <list>
+                     <item>Richard Rogers Eſq.</item>
+                     <item>George Lord Digby.</item>
+                     <item>
+                        <label>Poole.</label>
+                        <list>
+                           <item>Iohn Pyme Eſqu.</item>
+                           <item>William Conſtantine Eſqu,</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Dorcheſter.</label>
+                        <list>
+                           <item>Denſell Hollis Eſqu.</item>
+                           <item>Denis Bond Gent.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>q Lime Regis.</label>
+                        <list>
+                           <item>Waiter Earle Knight.</item>
+                           <item>Edward Prideaux Eſquire.</item>
+                           <item>Richard Roſe Gent.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Waymouth.</label>
+                        <list>
+                           <item>Iohn Strangwayes Knight.</item>
+                           <item>Thomas Giear Gent,</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Melcombe.</label>
+                        <list>
+                           <item>Giles Strangwayes Eſq.</item>
+                           <item>Richard King Eſquire.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Bridport.</label>
+                        <list>
+                           <item>Thomas Trenchard Eſq.</item>
+                           <item>Iohn Miller Knight.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Shaftsbury.</label>
+                        <list>
+                           <item>William Whitaker Eſq. Ree</item>
+                           <item>Samuell Turner D. Phiſick.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>
+                           <pb facs="tcp:169388:5"/>
+Warham.</label>
+                        <list>
+                           <item>Iohn Trenchard Eſquire.</item>
+                           <item>Gilbert Iones D. at the law</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Corfe Caſtle.</label>
+                        <list>
+                           <item>Henry Iermin Eſqu.</item>
+                           <item>Giles Greene Eſqu.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>Eſſex.</label>
+                  <list>
+                     <item>Thomas Barrington K. &amp; B</item>
+                     <item>Harbottel Grimſton K. &amp; B</item>
+                     <item>
+                        <label>Colcheſter.</label>
+                        <list>
+                           <item>William Maſham Kn. &amp; Ba.</item>
+                           <item>Harbottel Grimſton Eſq.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Malden.</label>
+                        <list>
+                           <item>Henry Mildmay Knight.</item>
+                           <item>Iohn Porter Eſ. Recor. <hi>ibi.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Harwich.</label>
+                        <list>
+                           <item>Thomas Cheeke Knight.</item>
+                           <item>Iohn Iacobs Knight.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>Glouceſterſhire.</label>
+                  <list>
+                     <item>Robert Tracy Knight.</item>
+                     <item>Robert Cooke Knight.</item>
+                     <item>
+                        <label>Glouceſter Citie.</label>
+                        <list>
+                           <item>William Singleton Eſq.</item>
+                           <item>Henry Brett Eſqu.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Ciceſter.</label>
+                        <list>
+                           <item>Henry Poole Eſqu.</item>
+                           <item>Iohn George Eſqu.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Teukesbury.</label>
+                        <list>
+                           <item>Anto. Aſhley Cowper Bar.</item>
+                           <item>Edward Alford Knight.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>Huntingtonſhire.</label>
+                  <list>
+                     <item>Thomas Cotton Baronet.</item>
+                     <item>Capell Beadles Baronet.</item>
+                     <item>
+                        <label>Huntington Towne.</label>
+                        <list>
+                           <item>Robert Barnerd Eſq. Recor.</item>
+                           <item>William Mountague Eſq.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>Hartfordſhire.</label>
+                  <list>
+                     <item>William Litton Knight.</item>
+                     <item>Arthur Capell Eſqu.</item>
+                     <item>
+                        <label>St. Albons.</label>
+                        <list>
+                           <item>Iohn Iennings K. of the Ba.</item>
+                           <item>Thomas Conningesby Eſq.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Hartford Towne.</label>
+                        <list>
+                           <item>Charles Vicount Cranborne</item>
+                           <item>Tho. Fanſhaw K. of the Ba.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>Herefordſhire.</label>
+                  <list>
+                     <item>Rob. Harley K. of the Bath.</item>
+                     <item>Walter Pye Knight.</item>
+                     <item>
+                        <label>Hereford City.</label>
+                        <list>
+                           <item>Richard Weaver Gent.</item>
+                           <item>Richard Seaborne Eſq.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Weblie.</label>
+                        <list>
+                           <item>William Tomkins Eſqu.</item>
+                           <item>Thomas Tomkins Eſqu.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Lempſter.</label>
+                        <list>
+                           <item>William Smaleman Eſq.</item>
+                           <item>Walter Kirle Eſqu.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>Kent.</label>
+                  <list>
+                     <item>Roger Twiſden K. &amp; Bar.</item>
+                     <item>Norton Knatchbull Eſq.</item>
+                     <item>
+                        <label>Canterbury.</label>
+                        <list>
+                           <item>Edward Maſter Knight.</item>
+                           <item>Iohn Nutt Eſquire.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Rocheſter.</label>
+                        <list>
+                           <item>Thomas Walſingham Kn.</item>
+                           <item>Iohn Clerke Eſqu.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>
+                           <pb facs="tcp:169388:6"/>
+Maidſtone.</label>
+                        <list>
+                           <item>George Fane knight.</item>
+                           <item>Francis Barnham knight.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Quinborough.</label>
+                        <list>
+                           <item>Edward Hales K. &amp; Baro.</item>
+                           <item>Iohn Wolſtenholme K.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>Lincolnſhire.</label>
+                  <list>
+                     <item>Iohn Wray K. &amp; Baronet.</item>
+                     <item>Edward Huſſey K. &amp; Baro.</item>
+                     <item>
+                        <label>Lincolne.</label>
+                        <list>
+                           <item>Iohn Farmery D. at Law.</item>
+                           <item>Thomas Grantham Eſq.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Boſton Town.</label>
+                        <list>
+                           <item>Anthony Irby knight.</item>
+                           <item>William Ellis Eſq.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Great Grimesby.</label>
+                        <list>
+                           <item>Iervis Holles Eſq.</item>
+                           <item>Chriſtopher Wray knight.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Stanford.</label>
+                        <list>
+                           <item>Thomas Hatton knight</item>
+                           <item>Thomas Hatcher Eſq.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Grantham.</label>
+                        <list>
+                           <item>Edward Baſh knight.</item>
+                           <item>Henry Pelham Eſq.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>Leiceſterſhire.</label>
+                  <list>
+                     <item>Arthur Heſelrigge Baronet.</item>
+                     <item>Henry L. Gray of Ruthen.</item>
+                     <item>
+                        <label>Leiceſter.</label>
+                        <list>
+                           <item>Simon Every Eſq.</item>
+                           <item>Thomas Cooke Eſqr<g ref="char:punc">▪</g>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>Lancaſhire.</label>
+                  <list>
+                     <item>Gilbert Houghton K. &amp; Ba.</item>
+                     <item>William Farrington Eſq.</item>
+                     <item>
+                        <label>Lancaſter Towne.</label>
+                        <list>
+                           <item>Roger Kirkby Eſq.</item>
+                           <item>Iohn Harriſon Eſq.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Preſton in Andernes.</label>
+                        <list>
+                           <item>Richard Shuttleworth Eſq.</item>
+                           <item>Thomas Standiſh Eſq.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Newton.</label>
+                        <list>
+                           <item>Richard Wynne K. &amp; Bar.</item>
+                           <item>William Sherman Eſq.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Wigan.</label>
+                        <list>
+                           <item>Orlando Bridgeman Eſq.</item>
+                           <item>Alexander Rigby Eſq.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Clithero.</label>
+                        <list>
+                           <item>Richard Shutle worth Gen.</item>
+                           <item>Ralph Aſhton Eſq.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Leverpoole.</label>
+                        <list>
+                           <item>Iames Lord Cranfield.</item>
+                           <item>Iohn Holcroft Eſq.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>Middleſex.</label>
+                  <list>
+                     <item>Gilbert Gerrard Baronet.</item>
+                     <item>Iohn Francklin knight.</item>
+                     <item>
+                        <label>Weſtminſter.</label>
+                        <list>
+                           <item>Iohn Glyn Eſq,</item>
+                           <item>William Bell Gent.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>London.</label>
+                  <list>
+                     <item>Thomas Soame Eſq.</item>
+                     <item>Iſaac Pennington Eſq.</item>
+                     <item>Mathew Cradocke Mare.</item>
+                     <item>Samuell Vaſſell Marchant.</item>
+                  </list>
+               </item>
+               <item>
+                  <label>Monmouthſhire.</label>
+                  <list>
+                     <item>Thomas Morgan Eſq.</item>
+                     <item>Walter Rumſey.</item>
+                     <item>
+                        <label>q Moninouth.</label>
+                        <list>
+                           <item>Charles Iones Recorder.</item>
+                           <item>William Watkins,</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>
+                     <pb facs="tcp:169388:6"/>
+Northamptonſhire.</label>
+                  <list>
+                     <item>Iohn Grew Eſquire.</item>
+                     <item>Gilbert Pickering K. &amp; Bar.</item>
+                     <item>
+                        <label>Peterborough.</label>
+                        <list>
+                           <item>David Cecill Eſquire.</item>
+                           <item>William Fitz-Williams Eſ.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Northapmton.</label>
+                        <list>
+                           <item>Zoncheus Tate Eſquire.</item>
+                           <item>Richard Kneightley Iun. E.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Brackley.</label>
+                        <list>
+                           <item>Thomas Wenman Knight.</item>
+                           <item>Martin Liſtre Knight.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Higham Ferrers.</label>
+                        <list>
+                           <item>Chriſtopher Hatton K. Ba.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>Nottinghamſhire.</label>
+                  <list>
+                     <item>Thomas Hutchinſon knight</item>
+                     <item>Robert Sutton Eſquire.</item>
+                     <item>
+                        <label>Nottingham.</label>
+                        <list>
+                           <item>Charles Cavendiſh Knight.</item>
+                           <item>Gilbert Boone Ser. at Law.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Eaſt-Re<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ford.</label>
+                        <list>
+                           <item>Iervis Clifton Kn. and Bar.</item>
+                           <item>Francis Pierrepoint Eſqu.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>Norffolke.</label>
+                  <list>
+                     <item>Iohn Holland Baronet.</item>
+                     <item>Edward Mounford Eſqu.</item>
+                     <item>
+                        <label>Norwich.</label>
+                        <list>
+                           <item>Thomas Atkins Citizen.</item>
+                           <item>Iohn Tooly Citizen.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Line Regis.</label>
+                        <list>
+                           <item>William Doughty Eſ. Ald.</item>
+                           <item>Thomas Gurlinne. Alderm.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Yarmouth.</label>
+                        <list>
+                           <item>Edward Owner Eſq. Ald.</item>
+                           <item>Miles Corbet Eſqu. Recor.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Thetford Towne.</label>
+                        <list>
+                           <item>Thomas Woodhouſe, Baro.</item>
+                           <item>Framlingham Gawdy Eſq.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Caſtleriſing.</label>
+                        <list>
+                           <item>Thomas Talbot Eſquire.</item>
+                           <item>Nicholas Harman Eſquire.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>Northumberland.</label>
+                  <list>
+                     <item>Iohn Fenwick Kni. &amp; Bar.</item>
+                     <item>William Widdrington Kn.</item>
+                     <item>
+                        <label>New caſtle upon Tine.</label>
+                        <list>
+                           <item>Peter Riddell Knight.</item>
+                           <item>Thomas Liddell Eſquire.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Morpeth.</label>
+                        <list>
+                           <item>Philip Manwering Knight.</item>
+                           <item>Thomas Withering Eſqui.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Barwick.</label>
+                        <list>
+                           <item>Thomas Widdrington Kn.</item>
+                           <item>Hugh Potter Eſquire.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>Oxford.</label>
+                  <list>
+                     <item>Iacob Feneys Eſquire.</item>
+                     <item>Francis Wenman Knight.</item>
+                     <item>
+                        <label>Oxford.</label>
+                        <list>
+                           <item>Charles Viſcount Andever.</item>
+                           <item>Thomas Cooper Gent. Ald.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Vniverſitie of Oxford.</label>
+                        <list>
+                           <item>Francis Windebanke Kn.</item>
+                           <item>Iohn Danvers Knight.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Woodſtock.</label>
+                        <list>
+                           <item>William Lenthall Eſquire.</item>
+                           <item>William Fleetwood knight</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Banbury.</label>
+                        <list>
+                           <item>Nathaniel Feneys Eſquire.</item>
+                           <item>
+                              <pb facs="tcp:169388:7"/>
+                              <hi>Rutland.</hi>
+                           </item>
+                           <item>Baptiſta Noel Eſquire.</item>
+                           <item>Guido Palmes knight.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>Surrey.</label>
+                  <list>
+                     <item>Richard Onſlow Knight.</item>
+                     <item>Ambroſe Browne Baronet.</item>
+                     <item>
+                        <label>Southwarke.</label>
+                        <list>
+                           <item>Robert Holborne Eſquire.</item>
+                           <item>Richard Tuſtnell Gent.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Blechenley.</label>
+                        <list>
+                           <item>Q. Edward Biſhe Eſquire.</item>
+                           <item>Edmund Hoskins Eſquire.</item>
+                           <item>Francis Carew Knight Bal.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Ryegate.</label>
+                        <list>
+                           <item>Q. Thomas Thurland Eſq.</item>
+                           <item>Thomas Bludder Knight.</item>
+                           <item>Iohn Goodwyn Eſquire.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Guilford.</label>
+                        <list>
+                           <item>Robert Parkhurſt knight.</item>
+                           <item>George Abbot Eſquire.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Gatton.</label>
+                        <list>
+                           <item>Samuel Owfield Eſquire.</item>
+                           <item>Edward Sanders Eſquire.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Haſlemere.</label>
+                        <list>
+                           <item>Iohn Iaques Baronet.</item>
+                           <item>William Elliot Knight.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>Staffordſhire.</label>
+                  <list>
+                     <item>Edward Littleton Baronet.</item>
+                     <item>William Bowyer Knight.</item>
+                     <item>
+                        <label>Lichfield.</label>
+                        <list>
+                           <item>Walter Devoreux Knight.</item>
+                           <item>Richard Dyot Knight.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Stafford.</label>
+                        <list>
+                           <item>Ralph Sneyde I. Gent.</item>
+                           <item>Richard Weſton Eſquire.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>New Caſtle upon Lyn.</label>
+                        <list>
+                           <item>Iohn Merrick Knight.</item>
+                           <item>Richard Lloyd Eſq.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Tamworth.</label>
+                        <list>
+                           <item>George Abbot Eſq.</item>
+                           <item>Simon Archer knight.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>Shropſhire.</label>
+                  <list>
+                     <item>William Pierpoint Eſq.</item>
+                     <item>Vincent Corbet Eſq.</item>
+                     <item>
+                        <label>Salop.</label>
+                        <list>
+                           <item>Francis Newport Eſq,</item>
+                           <item>Thomas Owen Eſq.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Bruges <hi>alias</hi> Bridgenotth.</label>
+                        <list>
+                           <item>Thomas Whitmore Eſq.</item>
+                           <item>Edward Acton Eſq.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Ludlow.</label>
+                        <list>
+                           <item>Ralph Goodwyn Eſq.</item>
+                           <item>Charles Baldwyn Eſq.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Great Wenlocke.</label>
+                        <list>
+                           <item>Thomas Littleton Eſq.</item>
+                           <item>Richard Creſſet Eſ.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Biſhops Caſtle,</label>
+                        <list>
+                           <item>Robert Howard K. of the B.</item>
+                           <item>Richard More Eſquire.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>Southampton.</label>
+                  <list>
+                     <item>Henry Walloppe knight.</item>
+                     <item>Richard Whitehead Eſq.</item>
+                     <item>
+                        <label>Winton.</label>
+                        <list>
+                           <item>Iohn Liſley Eſq.</item>
+                           <item>William Ogle knight.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Southampton.</label>
+                        <list>
+                           <item>Iohn Mill Baronet.</item>
+                           <item>Thomas Levingſton Eſq.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>
+                           <pb facs="tcp:169388:7"/>
+Portſmouth.</label>
+                        <list>
+                           <item>W. Hamilton E. of Lanrick.</item>
+                           <item>Henry Percie Eſquire.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>q. Yarmouth.</label>
+                        <list>
+                           <item>Philip Lord Liſle.</item>
+                           <item>William Oglander Eſq.</item>
+                           <item>Iohn Bulkley Eſquire.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Peterfield.</label>
+                        <list>
+                           <item>William Lewis Baro.</item>
+                           <item>William Vdall knight.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Newport <hi>alias</hi> Medena.</label>
+                        <list>
+                           <item>Lucius Viſcount Falkland.</item>
+                           <item>Henry Worſley Baronet.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Stockbridge.</label>
+                        <list>
+                           <item>William Iephſon Eſq.</item>
+                           <item>William Heveingham Eſq.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>New-towne.</label>
+                        <list>
+                           <item>Nicholas Weſton Eſq.</item>
+                           <item>Iohn Menx Eſq.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Chriſt-church.</label>
+                        <list>
+                           <item>Arnold Herbert knight.</item>
+                           <item>Henry Tulſe Eſq.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Whitchurch.</label>
+                        <list>
+                           <item>Thomas Iervoyſe Knight.</item>
+                           <item>Richard Iervoyſe Eſq.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Lymmington.</label>
+                        <list>
+                           <item>Iohn Dodington Eſq.</item>
+                           <item>Iohn Kempe Eſq.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Andover.</label>
+                        <list>
+                           <item>Richard Wyn Baronet.</item>
+                           <item>Robert Wallopp Eſq.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>Suffolke.</label>
+                  <list>
+                     <item>Nathaniel Barnardiſton Kn.</item>
+                     <item>Phillip Parker knight.</item>
+                     <item>
+                        <label>Ipſwich.</label>
+                        <list>
+                           <item>William Cage Eſq.</item>
+                           <item>Iohn Gurdon Eſq.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Dunwich</label>
+                        <list>
+                           <item>Henry Coke Eſq.</item>
+                           <item>Anthony Bedingfield Eſq.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Ortford.</label>
+                        <list>
+                           <item>Charles le Groſſe knight.</item>
+                           <item>Edward Duke Eſq.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Aldburgh.</label>
+                        <list>
+                           <item>William Raynborow Eſq.</item>
+                           <item>Squire Bence Merchant.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Sudbury.</label>
+                        <list>
+                           <item>Robert Crane K. and Baro.</item>
+                           <item>Richard Pepys Eſq.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>De Ey.</label>
+                        <list>
+                           <item>Frederick Cornwallis k. Ba.</item>
+                           <item>Roger North Knight.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>St. Edmonds Bury.</label>
+                        <list>
+                           <item>Thomas Iermin K. Compt.</item>
+                           <item>Iohn Godbold Recorder.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>Somerſet.</label>
+                  <list>
+                     <item>Ralph Hopton K. Bath.</item>
+                     <item>Thomas Smith Eſq.</item>
+                     <item>
+                        <label>Citie Briſtoll.</label>
+                        <list>
+                           <item>Iohn Glanvill Serj. at Law.</item>
+                           <item>Humphry Hooke Eſq. Ald.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Citie Bath.</label>
+                        <list>
+                           <item>Charles Berkly Knight.</item>
+                           <item>Alexander Popham Eſq.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Citie Wells.</label>
+                        <list>
+                           <item>Edward Rodney Knight.</item>
+                           <item>Iohn Baber Eſq.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>
+                           <pb facs="tcp:169388:8"/>
+Taunton.</label>
+                        <list>
+                           <item>William Portman Baronet.</item>
+                           <item>Roger Hill Gent.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Bridgwater.</label>
+                        <list>
+                           <item>Edmund Windham Eſqu.</item>
+                           <item>Robert Blake Gent.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Q. Mynhead.</label>
+                        <list>
+                           <item>Alexander Popham Eſq.</item>
+                           <item>Francis Windham Gent.</item>
+                           <item>Arthur Ducke Doct. Law.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Ilcheſter.</label>
+                        <list>
+                           <item>Henry Berkley Knight.</item>
+                           <item>Edward Philips Eſquire</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Milborne Port.</label>
+                        <list>
+                           <item>Edward Kirton Eſquire.</item>
+                           <item>Thomas Earle Eſqu.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>Suſſex.</label>
+                  <list>
+                     <item>Thomas Pelham Baronet.</item>
+                     <item>Anthony Stapeley Eſqu.</item>
+                     <item>
+                        <label>Chicheſter.</label>
+                        <list>
+                           <item>Chriſtopher Lewknor Eſq.</item>
+                           <item>Edward Dowſe Eſquire.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Horſham.</label>
+                        <list>
+                           <item>Thomas Middleton Eſq.</item>
+                           <item>Hall Ravenſcroft Eſq.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Midhurſt.</label>
+                        <list>
+                           <item>Thomas May Eſquire.</item>
+                           <item>Robert Long Eſquire.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Lewes.</label>
+                        <list>
+                           <item>Harbert Morley Eſquire.</item>
+                           <item>Iames Rivers Eſquire.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Shoreham.</label>
+                        <list>
+                           <item>William Marlot Gent.</item>
+                           <item>Iohn Alford Eſquire.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Bramber.</label>
+                        <list>
+                           <item>Iohn Suckling Knight.</item>
+                           <item>Thomas Bowyer Baronet.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Steyning.</label>
+                        <list>
+                           <item>Iohn Leedes Knight.</item>
+                           <item>Thomas Farnefold Knight.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Eaſtgrimſted.</label>
+                        <list>
+                           <item>Henry Compton Kn. Bath.</item>
+                           <item>Robert Goodwyn Eſquire.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Arundell.</label>
+                        <list>
+                           <item>Henry Gartton Eſquire.</item>
+                           <item>Henry Goring Eſquire.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>Weſtmerland.</label>
+                  <list>
+                     <item>Philip Muſgrave Barron.</item>
+                     <item>Henry Bellingham K. &amp;. B<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</item>
+                     <item>
+                        <label>Appleby.</label>
+                        <list>
+                           <item>Richard Vicount Dungarv.</item>
+                           <item>Richard Lowther Eſquire.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>Wiltſhire.</label>
+                  <list>
+                     <item>Philip Lord Herbert.</item>
+                     <item>Francis Seymour Knight.</item>
+                     <item>
+                        <label>Salisbury.</label>
+                        <list>
+                           <item>Robert Hide Eſquire Rec.</item>
+                           <item>Michael Olſworth Eſq.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Wilton.</label>
+                        <list>
+                           <item>Henry Vane Knight, &amp;c.</item>
+                           <item>Benjamin Rudyer Knight.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Downton.</label>
+                        <list>
+                           <item>Edward Griffin Knight.</item>
+                           <item>William Eyre Eſquire.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Hyndon.</label>
+                        <list>
+                           <item>Miles Fleetwood Knight.</item>
+                           <item>George Garrard Eſquire.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>
+                           <pb facs="tcp:169388:8"/>
+Heytsbury.</label>
+                        <list>
+                           <item>Iohn Barkley Knight.</item>
+                           <item>Thomas Moore Eſquire.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Weſtbury.</label>
+                        <list>
+                           <item>Thomas Peneſtone Knight.</item>
+                           <item>Iohn Aſhe Eſquire.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Calne.</label>
+                        <list>
+                           <item>William Maynard Eſqu.</item>
+                           <item>Walter Norborne Eſqu.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Vize.</label>
+                        <list>
+                           <item>Edward Baynton Eſquire.</item>
+                           <item>Henry Davers Eſquire.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Chippenham.</label>
+                        <list>
+                           <item>Edward Hungerford K. B.</item>
+                           <item>Edward Beynton Knight.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Malmsbury.</label>
+                        <list>
+                           <item>Nevill Poole Knight.</item>
+                           <item>Anthonie Hungerford Eſq.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Kricklade.</label>
+                        <list>
+                           <item>Robert Ienner Eſquire.</item>
+                           <item>Thomas Hodges Eſquire.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Bedwyn.</label>
+                        <list>
+                           <item>Richard Harding Eſquire.</item>
+                           <item>Charles Seymour Eſquire.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Ludgerſhall.</label>
+                        <list>
+                           <item>William Aſhburnham Eſq.</item>
+                           <item>Iohn Evelin Knight.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Old Sarum.</label>
+                        <list>
+                           <item>Edward Herbert Eſqu. Soli.</item>
+                           <item>William Howard Knight.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Wotton Baſſet.</label>
+                        <list>
+                           <item>Thomas Windebanke Eſq.</item>
+                           <item>Edward Hide of Pirton Eſ.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Marleborough.</label>
+                        <list>
+                           <item>William Carnaby Knight.</item>
+                           <item>Francis Baskervile Eſquire.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>Woſterſhire.</label>
+                  <list>
+                     <item>Thomas Littleton K. &amp; Bar.</item>
+                     <item>Iohn Packington Baronet.</item>
+                     <item>
+                        <label>Woſter.</label>
+                        <list>
+                           <item>Iohn Cowcher Eſquire.</item>
+                           <item>Iohn Naſh Eſquire.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Droitwich.</label>
+                        <list>
+                           <item>Iohn Wilde Serg. at Law.</item>
+                           <item>Samuel Sandys Eſquire.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Eveſham.</label>
+                        <list>
+                           <item>William Sandys Eſquire.</item>
+                           <item>William Morton Eſquire.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Bewdley.</label>
+                        <list>
+                           <item>Henry Herbert Knight.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>Warwickſhire.</label>
+                  <list>
+                     <item>Thomas Lucy Knight.</item>
+                     <item>William Combe Eſquire.</item>
+                     <item>
+                        <label>Coventrie.</label>
+                        <list>
+                           <item>William Ieſſon Alderm.</item>
+                           <item>Simon Norton Alderman.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Warwicke.</label>
+                        <list>
+                           <item>William Purefey Eſquire.</item>
+                           <item>Godferie Boſſevile Eſqu.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>Barons of Ports.</label>
+                  <list>
+                     <item>
+                        <label>Haſtings.</label>
+                        <list>
+                           <item>Iohn Baker Baronet.</item>
+                           <item>Robert Reade Eſquire.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Wincheſley.</label>
+                        <list>
+                           <item>Nicholas Criſpe Knight.</item>
+                           <item>Iohn Finch eſquire.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>
+                           <pb facs="tcp:169388:9"/>
+Rye.</label>
+                        <list>
+                           <item>Iohn Culpeper Knight.</item>
+                           <item>Iohn White Eſq.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Rumney.</label>
+                        <list>
+                           <item>Thomas Godfrey Eſq.</item>
+                           <item>William Steele Eſq.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Hyeth.</label>
+                        <list>
+                           <item>Henry Heyman Eſq.</item>
+                           <item>Iohn Wandesford Eſq.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Dover.</label>
+                        <list>
+                           <item>Edward Boys Knight.</item>
+                           <item>Peter Heyman knight.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Sandwich.</label>
+                        <list>
+                           <item>Iohn Manhood Knight.</item>
+                           <item>Nathaniel Finch. Ser. Law.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>Wales.</label>
+                  <list>
+                     <item>Angleſey.</item>
+                     <item>Iohn Bodvill Eſq.</item>
+                     <item>
+                        <label>Bewmaris.</label>
+                        <list>
+                           <item>Charles Iones Eſq.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Brecknocke</label>
+                        <list>
+                           <item>William Morgan Eſq.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Brecknock Towne.</label>
+                        <list>
+                           <item>Herbert Price Eſq.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Cardigan.</label>
+                        <list>
+                           <item>Iames Lewis Eſquire.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Cardigan Towne.</label>
+                        <list>
+                           <item>Iohn Vaughan Eſquire.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Cayrmarthin.</label>
+                        <list>
+                           <item>Henry Vaughan Eſquire.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Cayrmarthin Towne.</label>
+                        <list>
+                           <item>Francis Lloyd Eſquirc.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Cayrnarvon.</label>
+                        <list>
+                           <item>Thomas Glynn Eſq.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Cayrnarvon Town.</label>
+                        <list>
+                           <item>Iohn Glynn Eſquire.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>Denbigh.</label>
+                  <list>
+                     <item>Thomas Salisbury Baronet.</item>
+                     <item>
+                        <label>Denbigh Town.</label>
+                        <list>
+                           <item>Iohn Salisbury junior Eſq.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>Flintſhire.</label>
+                  <list>
+                     <item>Iohn Moſtyn Eſquire.</item>
+                     <item>
+                        <label>Flint Town.</label>
+                        <list>
+                           <item>Thomas Hanmer Baronet.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>Glamorgan.</label>
+                  <list>
+                     <item>Edward Stradling K. Bar.</item>
+                     <item>
+                        <label>Cardiffe Towne.</label>
+                        <list>
+                           <item>William Herbert Eſquire.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>Merioneth.</label>
+                  <list>
+                     <item>Henry Wynn Eſquire.</item>
+                     <item>
+                        <hi>Pembroke.</hi>
+                     </item>
+                     <item>Iohn Wogan Senior Eſq.</item>
+                     <item>
+                        <label>Hartford weſt Town.</label>
+                        <list>
+                           <item>Hugh Owen Eſquire.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Pembroke Town.</label>
+                        <list>
+                           <item>Iohn Stepney Baronet.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>Montgomery.</label>
+                  <list>
+                     <item>Richard Herbert Eſquire.</item>
+                     <item>
+                        <label>Montgomery Towne.</label>
+                        <list>
+                           <item>Edward Lloyd Knight.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>Radner.</label>
+                  <list>
+                     <item>Charles Price Eſquire.</item>
+                     <item>
+                        <label>Radnor Town.</label>
+                        <list>
+                           <item>Richard Iones Eſquire.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>Yorkſhire.</label>
+                  <list>
+                     <item>Henry Belaſiſe Eſquire.</item>
+                     <item>VVilliam Savile Baronet.</item>
+                     <item>
+                        <label>
+                           <pb facs="tcp:169388:9"/>
+Yorke.</label>
+                        <list>
+                           <item>Edward Osborne Baronet.</item>
+                           <item>Roger Iaques knight.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Kingſton upon Hull.</label>
+                        <list>
+                           <item>Iohn Liſter knight.</item>
+                           <item>Henry Vane Eſq.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Knasborough.</label>
+                        <list>
+                           <item>Henry Slingsby Baronet.</item>
+                           <item>Henry Benſon Eſq.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Scarborough.</label>
+                        <list>
+                           <item>Hugh Cholmley knight.</item>
+                           <item>Iohn Hotham Eſq.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Rippon.</label>
+                        <list>
+                           <item>William Mallory Eſq.</item>
+                           <item>Paul Neile knight.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Richmond.</label>
+                        <list>
+                           <item>William Pennington Baro.</item>
+                           <item>Maior Norton Eſquire.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Heydon.</label>
+                        <list>
+                           <item>Phillip Stapleton knight.</item>
+                           <item>Iohn Alured Eſquire.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Borough bridge.</label>
+                        <list>
+                           <item>Ferdinand Fairefax Kni.</item>
+                           <item>Francis Nevill Eſq.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Thuske.</label>
+                        <list>
+                           <item>Iohn Belaſiſe Eſquire.</item>
+                           <item>William Franckland Eſq.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Aldburg.</label>
+                        <list>
+                           <item>Richard Aldburgh Eſq.</item>
+                           <item>Brian Palmes Eſquire.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Beverley.</label>
+                        <list>
+                           <item>Iohn Hotham K. and Ba.</item>
+                           <item>Michaell Warton Eſq.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <label>Pomfret.</label>
+                        <list>
+                           <item>Iohn Ramſden knight.</item>
+                           <item>George Wentworth Kni.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
